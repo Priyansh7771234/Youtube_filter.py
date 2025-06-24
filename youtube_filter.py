@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # 🔑 Replace with your real YouTube Data API key
-API_KEY = "AIzaSyAYhpxSIrGbMOFVPMbnP8BeoLFSPH2G2tA"
+API_KEY = "YOUR_API_KEY_HEAR"
 
 # Build the YouTube API client
 youtube = build('youtube', 'v3', developerKey=API_KEY)
